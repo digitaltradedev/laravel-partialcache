@@ -1,29 +1,3 @@
-WEBSITE
-DR
-91
-AR
-1.1K
-RP
-22.1M
-RD
-125.4K
-ST
-38.7K
-KW
-137.1K
-PAGE
-UR
-0
-RP
-0
-RD
-0
-ST
-0
-KW
-0
-
-Web vitals
 <?php
 
 namespace Spatie\PartialCache;
